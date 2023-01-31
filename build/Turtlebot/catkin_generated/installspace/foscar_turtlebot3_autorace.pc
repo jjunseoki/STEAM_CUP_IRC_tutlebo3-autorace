@@ -1,0 +1,8 @@
+prefix=/home/foscar/catkin_ws/install
+
+Name: foscar_turtlebot3_autorace
+Description: Description of foscar_turtlebot3_autorace
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

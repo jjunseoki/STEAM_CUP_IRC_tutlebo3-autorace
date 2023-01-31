@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/foscar/catkin_ws/install/setup.sh

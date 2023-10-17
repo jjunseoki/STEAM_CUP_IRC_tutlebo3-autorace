@@ -1,5 +1,5 @@
-# TEAM_CUP_IRC_tutlebo3-autorace
-turtlebot3 auto race
+# STEAM_CUP_IRC_tutlebo3-autorace
+장려상
 
 
 ## 대회 포스터
